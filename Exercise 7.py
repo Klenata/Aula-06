@@ -6,4 +6,4 @@ for i in range(len(usuario)):
     senha[i] = input("Crie uma senha para o seu usuário usuario:\n")
 
 for i in range(len(usuario)):
-    print(f"{i+1}. usuário: {usuario[i]}, senha: {senha[i]}")
+    print(f"{i}. usuário: {usuario[i]}, senha: {senha[i]}")
